@@ -1,5 +1,9 @@
 # my_paper_review
 
+### useful nlp blogs
+
+- https://jiho-ml.com/
+
 ### paper arxiv list 
 
 - http://masatohagiwara.net/100-nlp-papers/
